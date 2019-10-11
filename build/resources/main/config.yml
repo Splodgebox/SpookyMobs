@@ -1,0 +1,29 @@
+Message:
+  spawn-message:
+    - ""
+    - "&c%player% &7has just spawned a &c&lHalloween Ghoul"
+    - "&7at &c%x%, %y%, %z%"
+    - "&4Defeat it before them to gain its loot!"
+    - ""
+  death-message:
+    - ""
+    - "&c%player% &7has just defeated the &c&lHalloween Ghoul!"
+    - ""
+
+Rewards:
+  success-chance: 50
+  failed-chance: 50
+  success:
+    - 'give %player% diamond'
+  failed:
+    - 'give %player% coal'
+
+Spawn_Egg:
+  name: "&c&lHalloween Ghoul Spawn Egg"
+  material: "MONSTER_EGG"
+  data: 58
+  lore:
+    - "&7Defeat this boss to receive a chance"
+    - "&7To receive great rewards!"
+    - ""
+    - "&c&oPurchase your own @ buy.server.net"

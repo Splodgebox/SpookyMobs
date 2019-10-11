@@ -1,0 +1,6 @@
+name: SpookyMobs
+version: 1.0-SNAPSHOT
+main: net.splodgebox.spookymobs.SpookyMobs
+api-version: 1.13
+authors: [Splodgebox]
+description: Halloween Boss for your server!

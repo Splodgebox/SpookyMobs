@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpookyMobs.iml" filepath="$PROJECT_DIR$/SpookyMobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpookyMobs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpookyMobs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpookyMobs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpookyMobs.test.iml" />
+    </modules>
+  </component>
+</project>

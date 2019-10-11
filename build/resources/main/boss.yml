@@ -1,0 +1,30 @@
+Boss:
+  name: "&c&lHalloween Ghoul"
+  mob: "SKELETON"
+  health: 200
+  potion-effects:
+    - 'SPEED:4'
+    - 'INVISIBILITY:2'
+  skills:
+    - 'Smite:30'
+    - 'Blind:25'
+  armor:
+    helmet:
+      material: "PUMPKIN"
+      enchants: []
+    chestplate:
+      material: "DIAMOND_CHESTPLATE"
+      enchants:
+        - 'PROTECTION_ENVIRONMENTAL:4'
+    leggings:
+      material: "DIAMOND_LEGGINGS"
+      enchants:
+        - 'PROTECTION_ENVIRONMENTAL:4'
+    boots:
+      material: "DIAMOND_BOOTS"
+      enchants:
+        - 'PROTECTION_ENVIRONMENTAL:4'
+    weapon:
+      material: "DIAMOND_AXE"
+      enchants:
+        - 'DAMAGE_ALL:4'
